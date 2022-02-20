@@ -21,4 +21,4 @@ defaults:
   values:
     layout: page
 permalink: pretty
-remote_theme: jekyll-help-center-theme
+theme: jekyll-help-center-theme
