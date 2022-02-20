@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academia</title>
-    <link>http://academia.amplitudesolutions.com.br/</link>
-    <atom:link href="http://academia.amplitudesolutions.com.br/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 19 Feb 2022 19:59:54 +0000</pubDate>
-    <lastBuildDate>Sat, 19 Feb 2022 19:59:54 +0000</lastBuildDate>
-    <generator>Jekyll v3.8.5</generator>
+    <title></title>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 20 Feb 2022 01:53:57 -0300</pubDate>
+    <lastBuildDate>Sun, 20 Feb 2022 01:53:57 -0300</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
   </channel>
 </rss>
