@@ -22,4 +22,3 @@ defaults:
     layout: page
 permalink: pretty
 theme: jekyll-help-center-theme
-color_text: "#fff"
