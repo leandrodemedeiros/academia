@@ -9,7 +9,7 @@
 title: "Help Center"
 email: academia@amplitudesolutions.com.br
 description: "Simple and flexible Jekyll theme for help center."
-baseurl: ""
+baseurl: "https://academia.amplitudesolutions.com.br"
 url: ""
 twitter_username: "amplitudeacademia"
 github_username:  "amplitudeacademia"
