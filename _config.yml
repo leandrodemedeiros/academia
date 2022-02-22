@@ -10,7 +10,7 @@ collections:
     output: true
 email: academia@amplitudesolutions.com.br
 description: Uma biblioteca livre e aberta para compartilhamento de conhecimento.
-baseurl: http://academia.amplitudesolutions.com.br/
+baseurl: http://academia.amplitudesolutions.com.br
 url: 
 twitter_username: amplitudeacademia
 github_username: leandrodemedeiros
