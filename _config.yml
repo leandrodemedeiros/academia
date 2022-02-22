@@ -11,7 +11,7 @@ collections:
 email: academia@amplitudesolutions.com.br
 description: Simple and flexible Jekyll theme for help center.
 baseurl: http://academia.amplitudesolutions.com.br/
-url: ''
+url: 
 twitter_username: amplitudeacademia
 github_username: leandrodemedeiros
 color_theme: "#0081ff"
